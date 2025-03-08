@@ -1,8 +1,8 @@
-# Proyecto Laravel Backend
+# Proyecto Backend de Posts con Laravel
 
 ## Descripción
 Este es un proyecto backend desarrollado con **Laravel**, el framework de PHP más popular y robusto.
-Incluye autenticación, controladores, modelos, migraciones y configuración de base de datos.
+Incluye controladores, modelos, migraciones y configuración de base de datos.
 
 ---
 

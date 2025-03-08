@@ -23,7 +23,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 1. Clonar el repositorio:
 
    ```sh
-   git clone https://github.com/tuusuario/tuproyecto.git
+   git clone https://github.com/Evy32/PostsPTBack.git
    cd tuproyecto
    ```
 
